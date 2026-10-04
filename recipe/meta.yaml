@@ -34,6 +34,7 @@ requirements:
     - matplotlib-base
     - netcdf4
     - numpy
+    - platformdirs
     - python >={{ python_min }}
     - python-dateutil
     - pyyaml
